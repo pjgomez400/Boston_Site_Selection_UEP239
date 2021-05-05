@@ -19,3 +19,4 @@ dependencies:
   - mplleaflet
   - networkx
   - osmnx
+  - functools
