@@ -19,4 +19,5 @@ dependencies:
   - mplleaflet
   - networkx
   - osmnx
-  - functools
+  - contextily 
+  - rasterstats
